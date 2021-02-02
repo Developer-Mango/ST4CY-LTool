@@ -9,7 +9,6 @@ namespace ST4CY_Login_Tool
         public Copy()
         {
             InitializeComponent();
-            Process.Start("https://discord.gg/dhb6YeM");
         }
 
         private void Copy_Load(object sender, EventArgs e)
